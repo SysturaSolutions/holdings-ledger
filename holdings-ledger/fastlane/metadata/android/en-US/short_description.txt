@@ -1,0 +1,1 @@
+Private stock, ETF and crypto portfolio tracker that keeps your data on-device

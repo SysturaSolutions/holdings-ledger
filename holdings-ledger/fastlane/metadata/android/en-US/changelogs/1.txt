@@ -1,0 +1,6 @@
+First release.
+
+• Track stocks, ETFs and crypto with live prices
+• Price charts, allocation ring, GBP/USD/EUR display
+• Backup export and import
+• Five colour schemes

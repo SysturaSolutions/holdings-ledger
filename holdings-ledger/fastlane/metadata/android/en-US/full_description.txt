@@ -1,0 +1,23 @@
+<p>Holdings Ledger is a simple, private tracker for your investments. Record what you've put into stocks, ETFs and cryptocurrencies and see what they're worth today, with no account and no sign-up. Your data stays on your phone.</p>
+
+<p><b>Features</b></p>
+<ul>
+<li>Search over 10,000 stocks and ETFs and about 1,000 cryptocurrencies, or add any ticker by hand (e.g. London-listed VUSA.L)</li>
+<li>Portfolio value, total gain/loss and today's change at a glance</li>
+<li>Allocation ring showing your stock/crypto split and largest positions</li>
+<li>One-year price chart for each holding (1W, 1M, 3M, 6M, 1Y)</li>
+<li>View everything in US dollars, British pounds or euros</li>
+<li>Record amounts in the currency you actually paid in</li>
+<li>Five colour schemes</li>
+<li>Export and import backups as a JSON file</li>
+</ul>
+
+<p><b>Privacy</b></p>
+<p>No account, no analytics, no ads and no trackers. Your holdings are never sent anywhere. To look up prices, the app requests only the ticker symbols or coin IDs you hold from these services:</p>
+<ul>
+<li>CoinGecko: cryptocurrency prices</li>
+<li>Yahoo Finance: stock and ETF prices</li>
+<li>Frankfurter (European Central Bank data): exchange rates</li>
+</ul>
+
+<p>Prices are for information only and may be delayed. This is not financial advice.</p>

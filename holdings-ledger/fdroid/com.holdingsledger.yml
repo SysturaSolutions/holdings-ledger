@@ -1,0 +1,30 @@
+# Copy this file to metadata/com.holdingsledger.yml in your fork of
+# https://gitlab.com/fdroid/fdroiddata and replace YOUR_USERNAME / YOUR_NAME.
+AntiFeatures:
+  NonFreeNet:
+    en-US: Fetches prices from CoinGecko and Yahoo Finance.
+Categories:
+  - Money
+License: GPL-3.0-or-later
+AuthorName: YOUR_NAME
+SourceCode: https://github.com/YOUR_USERNAME/holdings-ledger
+IssueTracker: https://github.com/YOUR_USERNAME/holdings-ledger/issues
+Changelog: https://github.com/YOUR_USERNAME/holdings-ledger/releases
+
+AutoName: Holdings Ledger
+
+RepoType: git
+Repo: https://github.com/YOUR_USERNAME/holdings-ledger.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
